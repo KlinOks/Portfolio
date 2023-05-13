@@ -24,7 +24,7 @@
   <li> Произвела пересчет плана найма преподавателей;<p>
 
 
-> <a href="[https://disk.yandex.ru/d/a_hP8MCCOM33Iw]">Ссылка на проект</a>
+> <a href="https://disk.yandex.ru/d/a_hP8MCCOM33Iw">Ссылка на проект</a>
   
 
 <p>Выводы (итоги):<p>
