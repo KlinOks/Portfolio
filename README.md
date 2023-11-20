@@ -60,7 +60,6 @@
 <p> <p>
   
 > <a href="https://github.com/KlinOks/Portfolio/blob/54ab1a78485ad3ccc723ca89926d36ee03735313/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82-3">Ссылка на проект- 1</a>
-> <a href="https://github.com/KlinOks/Portfolio/blob/54ab1a78485ad3ccc723ca89926d36ee03735313/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82_3.xlsx">Ссылка на проект- 2</a>
 
 <br> 
 <p>Проект 4: Моделирование изменения балансов студентов </p> 
